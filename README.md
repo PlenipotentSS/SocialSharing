@@ -10,7 +10,7 @@ Facebook
 - http://www.facebook.com/share.php?u=[URL]&title=[TITLE]
 
 StumbleUpon
--http://www.stumbleupon.com/submit?url=[URL]&title=[TITLE]
+- http://www.stumbleupon.com/submit?url=[URL]&title=[TITLE]
 
 Delicious
 - http://del.icio.us/post?url=[URL]&title=[TITLE]]&notes=[DESCRIPTION]
